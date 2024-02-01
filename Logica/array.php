@@ -76,3 +76,5 @@
             # SUBISTITUIÇÃO COM STR_REPLACE
             $replace = str_replace($keys,array_values($assoc),$string);
             echo $replace;
+
+            // teste
