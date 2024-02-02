@@ -57,7 +57,7 @@
     // FUNÇÕES PARA ARRAY (ARRAY_KEYS)
             // $mais = [
             //     "Nome"=>"Marcos",
-            //     "Iade"=>21
+            //     "Idade"=>21
             // ];
             // $val = array_keys($mais);
     // FUNÇÃO PARA ARRA STR_REPLACE
