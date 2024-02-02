@@ -71,7 +71,7 @@
             # ARRAY ASSOCIATIVO
             $assoc = [
                 "{nome}"=>"Marcos",
-                "{condicao}"=>"bonito"
+                "{condicao}"=>"tranquilo"
             ];
             # SUBISTITUIÇÃO COM STR_REPLACE
             # 1 - CHAVES KEY, 2 - ARRAY_VALUES(ARRAY ASSOCIATIVO), - ONDE SERA APLICADO
