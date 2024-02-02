@@ -76,8 +76,3 @@
             # SUBISTITUIÇÃO COM STR_REPLACE
             # 1 - CHAVES KEY, 2 - ARRAY_VALUES(ARRAY ASSOCIATIVO), - ONDE SERA APLICADO
             $replace = str_replace($keys,array_values($assoc),$string);
-<<<<<<< Updated upstream
-            echo $replace;
-=======
-            echo $replace;
->>>>>>> Stashed changes
