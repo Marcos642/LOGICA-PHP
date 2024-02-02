@@ -57,7 +57,7 @@
     // FUNÇÕES PARA ARRAY (ARRAY_KEYS)
             // $mais = [
             //     "Nome"=>"Marcos",
-            //     "Iade"=>21
+            //     "Idade"=>21
             // ];
             // $val = array_keys($mais);
     // FUNÇÃO PARA ARRA STR_REPLACE
@@ -71,7 +71,7 @@
             # ARRAY ASSOCIATIVO
             $assoc = [
                 "{nome}"=>"Marcos",
-                "{condicao}"=>"bonito"
+                "{condicao}"=>"tranquilo"
             ];
             # SUBISTITUIÇÃO COM STR_REPLACE
             # 1 - CHAVES KEY, 2 - ARRAY_VALUES(ARRAY ASSOCIATIVO), - ONDE SERA APLICADO
